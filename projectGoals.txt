@@ -1,0 +1,30 @@
+version 1:
+    ***DONE load masterlist on boot
+        ***DONE if no masterlist, prompt for location of starter masterlist
+    ***DONE mouse navigation
+        ***DONE use checkboxes to select widgets for export to list
+    ***DONE show dialogs to ask whether to update usuals or clear checks
+    ***DONE show dialog to alert of malformed masterlist record
+    ***DONE adjust threshold
+    ***DONE drop down lists for habitat and ?
+    ***DONE exit warning?
+    ***DONE make separate save file for entry preferences
+    
+version 2:
+    ***DONE sort options - including sort before export
+    ***DONE sort functionality - warn of duplicate codes, rows, species, and lower(common name)
+    ***DONE include option to open in excel (macro that formats) rather than csv
+        ***DONE ask SBS: heading, format, file format, and sort requirements - found done list
+        ***DONE make excel macro
+    ***DONE check all showing button
+    ***DONE make updater and website functionality to check current published version number
+    ***DONE make launcher program, so shortcut doesn't get clobbered when update occurs
+
+version *:
+    load settings preferences
+    load saved list - check widgets from the CSV
+    edit masterlist - add, edit, delete
+    merge masterlist
+    alias widgets - linking to species whose entries have been edited/re-zoologized
+    keyboard navigation
+        navigating list with with keys and selecting checkboxes with spacebar
